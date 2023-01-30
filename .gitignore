@@ -1,0 +1,7 @@
+
+README.md
+/Pods
+.xcuserdata
+*.xcuserstate
+*.xcworkspace
+/.DS_Store
